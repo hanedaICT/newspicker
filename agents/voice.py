@@ -319,7 +319,8 @@ def synthesize(script: str, output_path: str, meta_path: str = "config/podcast_m
     # PCM バイナリを取得
     # 極めて慎重に階層をチェック
     if not pcm_data:
-
+        Python
+        response = locals().get("response")
         reason = response.candidates[0].finish_reason if (response and response.candidates and len(response.candidates) > 0) else "Unknown"
         print(f"[voice] ERROR: TTS failed to return valid audio data after {max_retries} attempts.")
         if last_exception:
