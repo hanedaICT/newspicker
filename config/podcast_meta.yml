@@ -6,7 +6,7 @@ name: "TasogarePenguin"
 email: "tasopenservices@gmail.com"
 language: ja
 # GitHub Pages のベースURL（リポジトリ設定に変更してください）
-base_url: "https://tasopen.github.io/newspicker"
+base_url: "https://hanedaict.github.io/newspicker"
 category: "Technology"
 explicit: "false"
 voice: "Zephyr"
