@@ -215,3 +215,10 @@
 2026-09-27T04:16:38.755990+00:00	https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash
 2026-09-27T04:16:38.755990+00:00	https://www.leiphone.com/category/industrynews/D18iwUndD8KTdpMu.html
 2026-09-27T04:16:38.755990+00:00	https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/
+2026-09-27T21:54:11.590000+00:00	https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000298/
+2026-09-27T21:54:11.590000+00:00	https://www.theguardian.com/australia-news/2026/sep/28/university-ai-marking-academic-overworked-staff-student-shortcut
+2026-09-27T21:54:11.590000+00:00	https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb
+2026-09-27T21:54:11.590000+00:00	https://xtech.nikkei.com/atcl/nxt/column/18/03712/080500001/
+2026-09-27T21:54:11.590000+00:00	https://www.theguardian.com/lifeandstyle/2026/sep/28/parenthood-millennial-mothers-overwhelmed
+2026-09-27T21:54:11.590000+00:00	https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/
+2026-09-27T21:54:11.590000+00:00	https://www.qbitai.com/2026/09/498546.html
