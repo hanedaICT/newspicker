@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 27 Sep 2026 07:01:01 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 13:16:38 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-09-27 13:14:29</title>
+      <link>https://tasopen.github.io/newspicker/episodes/2026-09-27_131429.mp3</link>
+      <guid isPermaLink="false">https://tasopen.github.io/newspicker/episodes/2026-09-27_131429.mp3</guid>
+      <pubDate>Sun, 27 Sep 2026 13:16:38 +0900</pubDate>
+      <description>おはようございます。9月27日のワールド AI ニュースです。本日は、OpenAI による最新モデルの学習停止という衝撃的なニュースや、ＡＩ が 2028 年のアメリカ大統領選挙の大きな争点となっている話題をお伝えします。</description>
+      <enclosure url="https://tasopen.github.io/newspicker/episodes/2026-09-27_131429.mp3" type="audio/mpeg" length="4273965" />
+      <podcast:transcript url="https://tasopen.github.io/newspicker/episodes/2026-09-27_131429.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>04:27</itunes:duration>
+      <itunes:summary>おはようございます。9月27日のワールド AI ニュースです。本日は、OpenAI による最新モデルの学習停止という衝撃的なニュースや、ＡＩ が 2028 年のアメリカ大統領選挙の大きな争点となっている話題をお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-09-27 06:57:02</title>
       <link>https://tasopen.github.io/newspicker/episodes/2026-09-27_065702.mp3</link>
