@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 28 Sep 2026 06:54:11 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:46:06 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-09-29 08:42:56</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-09-29_084256.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-09-29_084256.mp3</guid>
+      <pubDate>Tue, 29 Sep 2026 08:46:06 +0900</pubDate>
+      <description>おはようございます。9月29日のワールド AI ニュースです。本日は、OpenAI による最新モデルの公開中止や、AI が AI を開発する新時代の到来、そして暴走するエージェントを制御する新たな防衛策の話題をお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-09-29_084256.mp3" type="audio/mpeg" length="4098861" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-09-29_084256.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>04:16</itunes:duration>
+      <itunes:summary>おはようございます。9月29日のワールド AI ニュースです。本日は、OpenAI による最新モデルの公開中止や、AI が AI を開発する新時代の到来、そして暴走するエージェントを制御する新たな防衛策の話題をお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-09-28 06:52:06</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-09-28_065206.mp3</link>
