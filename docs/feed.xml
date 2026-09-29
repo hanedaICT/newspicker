@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 29 Sep 2026 08:46:06 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 07:52:51 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-09-30 07:51:38</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-09-30_075138.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-09-30_075138.mp3</guid>
+      <pubDate>Wed, 30 Sep 2026 07:52:51 +0900</pubDate>
+      <description>おはようございます。9月30日のワールド AI ニュースです。本日は、OpenAI が発表した常時稼働型エージェント ｄｏｔｓ（どっつ）や、独自のオフィススイート機能、そして制御不能になりつつあるエージェントへの規制論についてお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-09-30_075138.mp3" type="audio/mpeg" length="1913901" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-09-30_075138.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>01:59</itunes:duration>
+      <itunes:summary>おはようございます。9月30日のワールド AI ニュースです。本日は、OpenAI が発表した常時稼働型エージェント ｄｏｔｓ（どっつ）や、独自のオフィススイート機能、そして制御不能になりつつあるエージェントへの規制論についてお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-09-29 08:42:56</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-09-29_084256.mp3</link>
