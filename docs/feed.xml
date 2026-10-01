@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 30 Sep 2026 07:52:51 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:04:18 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-02 08:01:21</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-02_080121.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-02_080121.mp3</guid>
+      <pubDate>Fri, 02 Oct 2026 08:04:18 +0900</pubDate>
+      <description>おはようございます。10月2日のワールド AI ニュースです。本日は、カリフォルニア州や連邦取引委員会による OpenAI への強制調査、そして Google が発表した最新モデル Ｇｅｍｉｎｉ ４ Ａｒｇｏｎ（ぜみに・ふぉー・あるごん）の話題をお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-02_080121.mp3" type="audio/mpeg" length="3212973" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-02_080121.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>03:20</itunes:duration>
+      <itunes:summary>おはようございます。10月2日のワールド AI ニュースです。本日は、カリフォルニア州や連邦取引委員会による OpenAI への強制調査、そして Google が発表した最新モデル Ｇｅｍｉｎｉ ４ Ａｒｇｏｎ（ぜみに・ふぉー・あるごん）の話題をお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-09-30 07:51:38</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-09-30_075138.mp3</link>
