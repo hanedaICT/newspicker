@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 03 Oct 2026 12:02:53 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:27:19 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-03 12:25:37</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-03_122537.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-03_122537.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 12:27:19 +0900</pubDate>
+      <description>おはようございます。10月3日のワールド AI ニュースです。本日は、アメリカでの高性能サーバー密輸事件や日本のパワー半導体再編の動き、そして AI が奪う「聴く力」という文化的な危機についてお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-03_122537.mp3" type="audio/mpeg" length="5196717" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-03_122537.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>05:24</itunes:duration>
+      <itunes:summary>おはようございます。10月3日のワールド AI ニュースです。本日は、アメリカでの高性能サーバー密輸事件や日本のパワー半導体再編の動き、そして AI が奪う「聴く力」という文化的な危機についてお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-03 12:00:39</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-03_120039.mp3</link>
