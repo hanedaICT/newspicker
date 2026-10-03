@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 03 Oct 2026 12:27:19 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 07:01:12 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-04 06:58:57</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-04_065857.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-04_065857.mp3</guid>
+      <pubDate>Sun, 04 Oct 2026 07:01:12 +0900</pubDate>
+      <description>おはようございます。10月4日のワールド AI ニュースです。本日は、OpenAI の安全性責任者の辞任による組織崩壊の警告や、カリフォルニア州で成立した労働者を AI から守る新法、そして AI 開発の裏側で膨らみ続ける莫大な調査コストの現状についてお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-04_065857.mp3" type="audio/mpeg" length="8673837" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-04_065857.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>09:02</itunes:duration>
+      <itunes:summary>おはようございます。10月4日のワールド AI ニュースです。本日は、OpenAI の安全性責任者の辞任による組織崩壊の警告や、カリフォルニア州で成立した労働者を AI から守る新法、そして AI 開発の裏側で膨らみ続ける莫大な調査コストの現状についてお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-03 12:25:37</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-03_122537.mp3</link>
