@@ -208,3 +208,10 @@
 2026-10-03T01:54:02.633748+00:00	https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/
 2026-10-03T01:54:02.633748+00:00	https://ai.watch.impress.co.jp/docs/news/2145220.html
 2026-10-03T01:54:02.633748+00:00	https://ai.watch.impress.co.jp/docs/news/2145117.html
+2026-10-03T03:02:53.790687+00:00	https://www.theguardian.com/stage/2026/oct/03/eliza-review-melbourne-theatre-company-birth-of-ai
+2026-10-03T03:02:53.790687+00:00	https://ai.watch.impress.co.jp/docs/news/2145163.html
+2026-10-03T03:02:53.790687+00:00	https://www.zdnet.com/innovation/chatgpt-scam-malware-trap/
+2026-10-03T03:02:53.790687+00:00	https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/
+2026-10-03T03:02:53.790687+00:00	https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/
+2026-10-03T03:02:53.790687+00:00	https://www.tmtpost.com/8158562.html
+2026-10-03T03:02:53.790687+00:00	https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/

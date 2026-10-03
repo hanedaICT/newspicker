@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 03 Oct 2026 10:54:02 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:02:53 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-03 12:00:39</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-03_120039.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-03_120039.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 12:02:53 +0900</pubDate>
+      <description>おはようございます。10月3日のワールド AI ニュースです。本日は、アメリカ政府による AI の名称変更や軍事転用への大きな転換、そして身近なツールに潜むセキュリティのリスクについてお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-03_120039.mp3" type="audio/mpeg" length="4476333" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-03_120039.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>04:39</itunes:duration>
+      <itunes:summary>おはようございます。10月3日のワールド AI ニュースです。本日は、アメリカ政府による AI の名称変更や軍事転用への大きな転換、そして身近なツールに潜むセキュリティのリスクについてお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-03 10:52:15</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-03_105215.mp3</link>
