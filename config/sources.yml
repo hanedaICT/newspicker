@@ -81,7 +81,7 @@ rss_feeds:
   language: zh
   weight: 1.1
 selection:
-  max_articles: 7
+  max_articles: 15
   hours_lookback: 24
   max_per_source: 3
 maintenance:
