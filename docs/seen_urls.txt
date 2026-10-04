@@ -238,3 +238,14 @@
 2026-10-03T22:01:12.825873+00:00	https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/
 2026-10-03T22:01:12.825873+00:00	https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/
 2026-10-03T22:01:12.825873+00:00	https://www.tmtpost.com/8158706.html
+2026-10-04T03:33:35.283144+00:00	https://www.tmtpost.com/8158700.html
+2026-10-04T03:33:35.283144+00:00	https://www.tmtpost.com/8158829.html
+2026-10-04T03:33:35.283144+00:00	https://www.itmedia.co.jp/news/article/2610/04/2000001986/
+2026-10-04T03:33:35.283144+00:00	https://www.theguardian.com/australia-news/audio/2026/oct/04/black-box-the-chatbots-life-raft-episode-4-podcast
+2026-10-04T03:33:35.283144+00:00	https://www.theguardian.com/money/2026/oct/03/bayeux-tapestry-glastonbury-top-tips-tricks-hottest-tickets
+2026-10-04T03:33:35.283144+00:00	https://www.qbitai.com/2026/10/501451.html
+2026-10-04T03:33:35.283144+00:00	https://www.tmtpost.com/8158821.html
+2026-10-04T03:33:35.283144+00:00	https://www.itmedia.co.jp/news/article/2610/04/2000001987/
+2026-10-04T03:33:35.283144+00:00	https://www.itmedia.co.jp/news/article/2610/04/2000001978/
+2026-10-04T03:33:35.283144+00:00	https://www.theverge.com/games/1004418/capcom-ai-game-development
+2026-10-04T03:33:35.283144+00:00	https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview
