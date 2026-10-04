@@ -82,7 +82,7 @@ rss_feeds:
   weight: 1.1
 selection:
   max_articles: 15
-  hours_lookback: 24
+  hours_lookback: 36
   max_per_source: 3
 maintenance:
   check_interval_weeks: 1
