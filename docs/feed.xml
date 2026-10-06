@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 05 Oct 2026 07:15:32 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:38:45 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-06 09:35:33</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-06_093533.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-06_093533.mp3</guid>
+      <pubDate>Tue, 06 Oct 2026 09:38:45 +0900</pubDate>
+      <description>おはようございます。10月6日のワールド AI ニュースです。本日は、OpenAI のサム・アルトマン氏が放った「AI の恩恵のために悪い出来事を受け入れるべきだ」という衝撃的な発言や、日本政府が始動させた職員自ら AI エージェントを構築できる新基盤「源内（げんない）」、そして AI に対する私たちの複雑な愛憎関係について詳しくお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-06_093533.mp3" type="audio/mpeg" length="13796013" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-06_093533.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>14:22</itunes:duration>
+      <itunes:summary>おはようございます。10月6日のワールド AI ニュースです。本日は、OpenAI のサム・アルトマン氏が放った「AI の恩恵のために悪い出来事を受け入れるべきだ」という衝撃的な発言や、日本政府が始動させた職員自ら AI エージェントを構築できる新基盤「源内（げんない）」、そして AI に対する私たちの複雑な愛憎関係について詳しくお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-05 07:12:00</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-05_071200.mp3</link>
