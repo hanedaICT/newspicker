@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 06 Oct 2026 09:38:45 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 07:58:00 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-07 07:53:34</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-07_075334.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-07_075334.mp3</guid>
+      <pubDate>Wed, 07 Oct 2026 07:58:00 +0900</pubDate>
+      <description>おはようございます。10月7日のワールド AI ニュースです。本日は、OpenAI のサム・アルトマン氏を痛烈に風刺した映画「Artificial（あーてぃふぃしゃる）」の話題や、数学界を揺るがす AI の急速な進歩と軋轢、そしてノルウェーで浮上した「AI 眼鏡」規制の動きなど、AI と社会の境界線で起きている重要な変化を詳しくお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-07_075334.mp3" type="audio/mpeg" length="12526893" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-07_075334.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>13:02</itunes:duration>
+      <itunes:summary>おはようございます。10月7日のワールド AI ニュースです。本日は、OpenAI のサム・アルトマン氏を痛烈に風刺した映画「Artificial（あーてぃふぃしゃる）」の話題や、数学界を揺るがす AI の急速な進歩と軋轢、そしてノルウェーで浮上した「AI 眼鏡」規制の動きなど、AI と社会の境界線で起きている重要な変化を詳しくお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-06 09:35:33</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-06_093533.mp3</link>
