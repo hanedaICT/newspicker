@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 07 Oct 2026 07:58:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:30:50 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-08 08:27:41</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-08_082741.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-08_082741.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 08:30:50 +0900</pubDate>
+      <description>おはようございます。10月8日のワールド AI ニュースです。本日は、ChatGPT が「見る・触れる」インターフェースへと劇的な進化を遂げる最新アップデートや、OpenAI が数学の未解決領域に放った370もの衝撃的な成果、そして AI 生成キャラクターの著作権を巡る国際的な法的紛争の行方など、AI が社会の深層へと浸透する最新動向を詳しくお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-08_082741.mp3" type="audio/mpeg" length="14698413" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-08_082741.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>15:18</itunes:duration>
+      <itunes:summary>おはようございます。10月8日のワールド AI ニュースです。本日は、ChatGPT が「見る・触れる」インターフェースへと劇的な進化を遂げる最新アップデートや、OpenAI が数学の未解決領域に放った370もの衝撃的な成果、そして AI 生成キャラクターの著作権を巡る国際的な法的紛争の行方など、AI が社会の深層へと浸透する最新動向を詳しくお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-07 07:53:34</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-07_075334.mp3</link>
