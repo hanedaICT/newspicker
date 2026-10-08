@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 08 Oct 2026 08:30:50 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:43:45 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-09 08:38:50</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-09_083850.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-09_083850.mp3</guid>
+      <pubDate>Fri, 09 Oct 2026 08:43:45 +0900</pubDate>
+      <description>おはようございます。10月9日のワールド AI ニュースです。本日は、中国の天才集団が率いる新星 Naive AI（ないーぶ・えーあい）の衝撃的な台頭や、Anthropic（あんすろぴっく）の AI が成し遂げた生命科学の歴史的発見、そして AI 開発の影で進む労働監視や格差の拡大といった、技術進化の光と影を詳しくお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-09_083850.mp3" type="audio/mpeg" length="12002349" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-09_083850.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>12:30</itunes:duration>
+      <itunes:summary>おはようございます。10月9日のワールド AI ニュースです。本日は、中国の天才集団が率いる新星 Naive AI（ないーぶ・えーあい）の衝撃的な台頭や、Anthropic（あんすろぴっく）の AI が成し遂げた生命科学の歴史的発見、そして AI 開発の影で進む労働監視や格差の拡大といった、技術進化の光と影を詳しくお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-08 08:27:41</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-08_082741.mp3</link>
