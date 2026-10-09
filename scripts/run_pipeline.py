@@ -110,29 +110,49 @@ def run() -> None:
     full_script = headline + "\n" + body
 
 
-    # @voice: 音声合成（2分ごとに分割生成＆結合）
+    # @voice: 音声合成（文末で分割し、話題の区切りを優先）
     print("\n--- @voice: 音声合成中 ---")
-    # 2分=120秒, Gemini TTSは24kHz/16bit/monoなので1秒=48000byte程度
-    # 句点・改行で分割し、各セグメントの合計文字数で近似的に2分ごとに分割
     import re
 
     from agents.voice import _wav_exact_duration_ms
     from agents.voice_concat import concat_wav
-    # 分割バッファは1500文字ごととする
-    max_chars = 1500
-    # 句点・改行で分割
-    segments = [s.strip() for s in re.split(r'(?<=[。！？\!\?\n])', full_script) if s.strip()]
+
+    max_chars = 1500  # 無料枠を考慮し、従来の上限を維持
+    # 元の文章を落とさないよう、句点・感嘆符・疑問符の直後で区切る。
+    sentences = [s for s in re.split(r"(?<=[。！？!?])", full_script) if s.strip()]
+    # 直前の文が完結し、次の文が話題転換なら、その位置を優先する。
+    topic_starts = (
+        "さて、", "一方で、", "一方、", "続いて、", "次に、",
+        "最後に、", "ここからは、", "それでは、", "本日のニュースを振り返ると、",
+    )
     seg_groups = []
-    buf = ""
-    for seg in segments:
-        if len(buf) + len(seg) > max_chars and buf:
-            seg_groups.append(buf.strip())
-            buf = seg
-        else:
-            buf += seg
-    if buf:
-        seg_groups.append(buf.strip())
-    
+    pos = 0
+    while pos < len(sentences):
+        total = 0
+        candidates = []
+        end_pos = pos
+        while end_pos < len(sentences):
+            sentence = sentences[end_pos]
+            if total + len(sentence) > max_chars and end_pos > pos:
+                break
+            if len(sentence) > max_chars:
+                raise ValueError("1500文字を超える一文があります。分割方法を確認してください。")
+            total += len(sentence)
+            end_pos += 1
+            if end_pos < len(sentences) and total >= 900:
+                next_sentence = sentences[end_pos].lstrip()
+                if next_sentence.startswith(topic_starts):
+                    candidates.append(end_pos)
+        # 900文字以上で自然な話題転換があれば、最も後ろの候補を採用。
+        # なければ従来どおり、上限内の最後の文末で分割する。
+        split_at = candidates[-1] if candidates else end_pos
+        chunk = "".join(sentences[pos:split_at]).strip()
+        if chunk:
+            seg_groups.append(chunk)
+        pos = split_at
+    print(f"[voice] Planned {len(seg_groups)} segments: "
+          f"{[len(s) for s in seg_groups]} chars")
+
     wav_parts = []
     srt_segments = []
     for i, seg_text in enumerate(seg_groups):
