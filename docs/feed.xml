@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 09 Oct 2026 08:43:45 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:06:05 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-10 08:02:07</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-10_080207.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-10_080207.mp3</guid>
+      <pubDate>Sat, 10 Oct 2026 08:06:05 +0900</pubDate>
+      <description>おはようございます。10月10日のワールド AI ニュースです。本日は、OpenAI の収益予測を巡る波紋と次世代モデル GPT-6 の全世界リリース、そしてかつて物議を醸した天才インターンが挑む新たな世界モデルの衝撃など、AI 業界の光と影を詳しくお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-10_080207.mp3" type="audio/mpeg" length="15752493" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-10_080207.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>16:24</itunes:duration>
+      <itunes:summary>おはようございます。10月10日のワールド AI ニュースです。本日は、OpenAI の収益予測を巡る波紋と次世代モデル GPT-6 の全世界リリース、そしてかつて物議を醸した天才インターンが挑む新たな世界モデルの衝撃など、AI 業界の光と影を詳しくお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-09 08:38:50</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-09_083850.mp3</link>
