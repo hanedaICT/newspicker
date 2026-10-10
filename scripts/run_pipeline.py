@@ -180,18 +180,21 @@ def run() -> None:
         if i < len(seg_groups) - 1:
             time.sleep(1)
 
+   
     if len(wav_parts) == 1:
         os.rename(wav_parts[0], wav_path)
     else:
         concat_wav(wav_parts, wav_path)
-        for p in wav_parts:
-            os.remove(p)
+        # 診断用に各パートのWAVを残す。
+        # GitHub Actions側でArtifactとして保存する。
+
     # WAV→MP3変換
     from agents.voice import _convert_wav_to_mp3
     with open(wav_path, "rb") as f:
         wav_bytes = f.read()
     _convert_wav_to_mp3(wav_bytes, mp3_path)
     os.remove(wav_path)
+
 
     # @android: RSS フィード更新
     print("\n--- @android: RSS 更新中 ---")
