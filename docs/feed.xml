@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 10 Oct 2026 09:27:42 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 07:15:38 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-11 07:12:44</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-11_071244.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-11_071244.mp3</guid>
+      <pubDate>Sun, 11 Oct 2026 07:15:38 +0900</pubDate>
+      <description>おはようございます。10月11日のワールド AI ニュースです。本日は、Microsoft（まいくろそふと）のサティア・ナデラ CEO（しーいーおー）が提言した AI の「緊急ブレーキ」の必要性や、ロボット工学の世界的権威が集う IROS（あいろす）2026 で示された具身（ぐしん）知能の劇的な転換、そして、わずかな「空白」で AI が誤答する DeepSeek（でぃーぷしーく）の深刻な脆弱性など、技術の進歩とその裏に潜む構造的な課題を詳しくお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-11_071244.mp3" type="audio/mpeg" length="11613357" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-11_071244.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>12:05</itunes:duration>
+      <itunes:summary>おはようございます。10月11日のワールド AI ニュースです。本日は、Microsoft（まいくろそふと）のサティア・ナデラ CEO（しーいーおー）が提言した AI の「緊急ブレーキ」の必要性や、ロボット工学の世界的権威が集う IROS（あいろす）2026 で示された具身（ぐしん）知能の劇的な転換、そして、わずかな「空白」で AI が誤答する DeepSeek（でぃーぷしーく）の深刻な脆弱性など、技術の進歩とその裏に潜む構造的な課題を詳しくお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-10 09:25:09</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-10_092509.mp3</link>
