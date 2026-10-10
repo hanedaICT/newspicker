@@ -39,12 +39,24 @@ jobs:
           set -x
           uv run python scripts/run_pipeline.py
 
+      - name: Save TTS diagnostic audio
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: tts-diagnostic-audio
+          path: docs/episodes/*_part*.wav
+          retention-days: 7
+          if-no-files-found: warn
+
       - name: Commit and push episode
         run: |
           set -x
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
           git add docs/
+          git reset -- 'docs/episodes/*_part*.wav'
+
           git diff --cached --quiet || git commit -m "chore: add episode $(date -u +%Y-%m-%d) [skip ci]"
           # Ensure we integrate any remote updates before pushing to avoid rejects
           git fetch origin
