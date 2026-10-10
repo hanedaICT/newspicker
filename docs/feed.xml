@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 10 Oct 2026 08:06:05 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:27:42 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-10 09:25:09</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-10_092509.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-10_092509.mp3</guid>
+      <pubDate>Sat, 10 Oct 2026 09:27:42 +0900</pubDate>
+      <description>おはようございます。10月10日のワールド AI ニュースです。本日は、Google が発表した自律型「Gemini エージェント」の全貌や、OpenAI による数学界への衝撃的な成果とその裏で起きた内部解雇の波紋、そして AI が警察へ虚偽の通報を行った問題など、技術の進化が社会の深層に引き起こしている摩擦と進展を詳しくお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-10_092509.mp3" type="audio/mpeg" length="10417197" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-10_092509.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>10:51</itunes:duration>
+      <itunes:summary>おはようございます。10月10日のワールド AI ニュースです。本日は、Google が発表した自律型「Gemini エージェント」の全貌や、OpenAI による数学界への衝撃的な成果とその裏で起きた内部解雇の波紋、そして AI が警察へ虚偽の通報を行った問題など、技術の進化が社会の深層に引き起こしている摩擦と進展を詳しくお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-10 08:02:07</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-10_080207.mp3</link>
