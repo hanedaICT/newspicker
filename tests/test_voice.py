@@ -111,5 +111,43 @@ class BuildTtsPromptTests(unittest.TestCase):
         )
 
 
+class PcmToWavBytesTests(unittest.TestCase):
+    def test_pcm_is_wrapped_as_wav(self) -> None:
+        import io
+        import wave
+        from agents.voice import _pcm_to_wav_bytes
+
+        pcm = b"\x00\x00" * 100
+        result = _pcm_to_wav_bytes(pcm)
+
+        with wave.open(io.BytesIO(result), "rb") as wf:
+            self.assertEqual(wf.getnchannels(), 1)
+            self.assertEqual(wf.getframerate(), 24000)
+            self.assertEqual(wf.getsampwidth(), 2)
+            self.assertEqual(wf.readframes(wf.getnframes()), pcm)
+
+    def test_existing_wav_is_not_wrapped_twice(self) -> None:
+        import io
+        import wave
+        from agents.voice import _pcm_to_wav_bytes
+
+        pcm = b"\x00\x00" * 100
+
+        with io.BytesIO() as buf:
+            with wave.open(buf, "wb") as wf:
+                wf.setnchannels(1)
+                wf.setsampwidth(2)
+                wf.setframerate(24000)
+                wf.writeframes(pcm)
+            original_wav = buf.getvalue()
+
+        result = _pcm_to_wav_bytes(original_wav)
+
+        self.assertEqual(result, original_wav)
+
+        with wave.open(io.BytesIO(result), "rb") as wf:
+            self.assertEqual(wf.readframes(wf.getnframes()), pcm)
+
+
 if __name__ == "__main__":
     unittest.main()
