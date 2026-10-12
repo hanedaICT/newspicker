@@ -111,11 +111,23 @@ def _load_config(config_path: str = "config/sources.yml") -> dict[str, Any]:
         return yaml.safe_load(f)
 
 
+
 def _score(article: Article, config: dict[str, Any]) -> float:
-    """キーワードマッチによるスコアリング。"""
+    """キーワード一致を主軸に、概要の情報量を補助評価する。"""
     keywords = [kw.lower() for kw in config.get("keywords", [])]
     text = (article.title + " " + article.summary).lower()
-    return sum(1.0 for kw in keywords if kw in text)
+    keyword_score = sum(1.0 for kw in keywords if kw in text)
+
+    # HTMLタグは情報量に含めない
+    import re
+    summary_text = re.sub(r"<[^>]+>", "", article.summary)
+    summary_length = len(summary_text.strip())
+
+    # 概要の長さによる加点は最大0.5点
+    information_score = min(summary_length / 400, 1.0) * 0.5
+
+    return keyword_score + information_score
+
 
 
 def fetch_rss(feed_cfg: dict[str, Any], hours: int) -> list[Article]:
