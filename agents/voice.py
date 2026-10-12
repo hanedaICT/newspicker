@@ -85,13 +85,40 @@ def _load_meta(meta_path: str = "config/podcast_meta.yml") -> dict:
         return yaml.safe_load(f)
 
 
-def _pcm_to_wav_bytes(pcm_data: bytes, channels: int = 1, rate: int = 24000, sample_width: int = 2) -> bytes:
+def _pcm_to_wav_bytes(
+    pcm_data: bytes,
+    channels: int = 1,
+    rate: int = 24000,
+    sample_width: int = 2,
+) -> bytes:
+    # GeminiからWAV形式で返された場合は、
+    # 二重にWAVヘッダーを付けず、そのまま使用する。
+    if pcm_data.startswith(b"RIFF") and pcm_data[8:12] == b"WAVE":
+        with wave.open(io.BytesIO(pcm_data), "rb") as wf:
+            if (
+                wf.getnchannels() != channels
+                or wf.getframerate() != rate
+                or wf.getsampwidth() != sample_width
+                or wf.getcomptype() != "NONE"
+            ):
+                raise ValueError("GeminiのWAV形式が想定と異なります。")
+
+            # WAVデータが正常に読み込めることを確認
+            wf.readframes(wf.getnframes())
+
+        return pcm_data
+
+    # 生のPCMデータの場合だけWAVヘッダーを付ける。
+    if len(pcm_data) % (channels * sample_width) != 0:
+        raise ValueError("PCMデータの長さが不正です。")
+
     buf = io.BytesIO()
     with wave.open(buf, "wb") as wf:
         wf.setnchannels(channels)
         wf.setsampwidth(sample_width)
         wf.setframerate(rate)
         wf.writeframes(pcm_data)
+
     return buf.getvalue()
 
 
