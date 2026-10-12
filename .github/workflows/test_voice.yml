@@ -17,5 +17,5 @@ jobs:
       - name: Set up Python
         run: uv python install
 
-      - name: Run voice tests
-        run: uv run python -m unittest discover -s tests -p "test_voice.py" -v
+      - name: Run unit tests
+        run: uv run python -m unittest discover -s tests -p "test_*.py" -v
