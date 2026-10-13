@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 13 Oct 2026 10:09:25 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:15:34 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-14 08:12:27</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-14_081227.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-14_081227.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 08:15:34 +0900</pubDate>
+      <description>おはようございます。10月14日のワールド AI ニュースです。本日は、Anthropic（あんすろぴっく）が警告する「自己複製型 AI」の脅威や、OpenAI 役員会議室での盗聴器発見と従業員の逮捕、そして急激な AI 導入から揺り戻しを見せる Meta（めた）などの企業動向を中心にお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-14_081227.mp3" type="audio/mpeg" length="11606445" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-14_081227.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>12:05</itunes:duration>
+      <itunes:summary>おはようございます。10月14日のワールド AI ニュースです。本日は、Anthropic（あんすろぴっく）が警告する「自己複製型 AI」の脅威や、OpenAI 役員会議室での盗聴器発見と従業員の逮捕、そして急激な AI 導入から揺り戻しを見せる Meta（めた）などの企業動向を中心にお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-13 10:06:44</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-13_100644.mp3</link>
