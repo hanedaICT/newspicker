@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 12 Oct 2026 07:43:58 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:09:25 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-13 10:06:44</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-13_100644.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-13_100644.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 10:09:25 +0900</pubDate>
+      <description>おはようございます。10月13日のワールド AI ニュースです。本日は、イギリス政府が警告する医療機関への AI サイバー攻撃の脅威や、NVIDIA による Hugging Face の巨額買収、そして Microsoft が Alibaba のモデルを採用して放った新しい意思決定 AI の衝撃を中心にお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-13_100644.mp3" type="audio/mpeg" length="12571053" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-13_100644.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>13:05</itunes:duration>
+      <itunes:summary>おはようございます。10月13日のワールド AI ニュースです。本日は、イギリス政府が警告する医療機関への AI サイバー攻撃の脅威や、NVIDIA による Hugging Face の巨額買収、そして Microsoft が Alibaba のモデルを採用して放った新しい意思決定 AI の衝撃を中心にお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-12 07:41:02</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-12_074102.mp3</link>
