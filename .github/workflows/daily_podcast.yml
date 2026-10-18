@@ -44,10 +44,10 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: tts-diagnostic-audio
-         path: |
-           docs/episodes/*_part*.wav
-           docs/episodes/*.tts.txt
-           docs/episodes/*.tts_prompt.txt
+          path: |
+            docs/episodes/*_part*.wav
+            docs/episodes/*.tts.txt
+            docs/episodes/*.tts_prompt.txt
           retention-days: 7
           if-no-files-found: warn
 
@@ -59,6 +59,8 @@ jobs:
           
           git add docs/
           git reset -- 'docs/episodes/*_part*.wav'
+          git reset -- 'docs/episodes/*.tts.txt'
+          git reset -- 'docs/episodes/*.tts_prompt.txt'
 
           git diff --cached --quiet || git commit -m "chore: add episode $(date -u +%Y-%m-%d) [skip ci]"
           # Ensure we integrate any remote updates before pushing to avoid rejects
