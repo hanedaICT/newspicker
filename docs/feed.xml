@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 18 Oct 2026 11:50:51 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:16:37 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-19 06:14:40</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-19_061440.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-19_061440.mp3</guid>
+      <pubDate>Mon, 19 Oct 2026 06:16:37 +0900</pubDate>
+      <description>おはようございます。10月19日のワールド AI ニュースです。本日は、Anthropic（あんすろぴっく）が警告する自己複製型 AI ワームの脅威や、深圳（しぇんぜん）で開催された巨大半導体博覧会の詳報、そして深刻化する IT 機器の調達難を中心にお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-19_061440.mp3" type="audio/mpeg" length="10259757" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-19_061440.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>10:41</itunes:duration>
+      <itunes:summary>おはようございます。10月19日のワールド AI ニュースです。本日は、Anthropic（あんすろぴっく）が警告する自己複製型 AI ワームの脅威や、深圳（しぇんぜん）で開催された巨大半導体博覧会の詳報、そして深刻化する IT 機器の調達難を中心にお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-18 11:48:39</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-18_114839.mp3</link>
