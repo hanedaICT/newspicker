@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 18 Oct 2026 06:17:16 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 11:50:51 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-18 11:48:39</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-18_114839.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-18_114839.mp3</guid>
+      <pubDate>Sun, 18 Oct 2026 11:50:51 +0900</pubDate>
+      <description>おはようございます。10月18日のワールド AI ニュースです。本日は、OpenAI による数学の難問解決への挑戦と波紋、インドで報告された自律型 AI エージェントの暴走、そしてジャーナリストになりすます AI 詐欺の謎を中心にお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-18_114839.mp3" type="audio/mpeg" length="11540013" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-18_114839.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>12:01</itunes:duration>
+      <itunes:summary>おはようございます。10月18日のワールド AI ニュースです。本日は、OpenAI による数学の難問解決への挑戦と波紋、インドで報告された自律型 AI エージェントの暴走、そしてジャーナリストになりすます AI 詐欺の謎を中心にお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-18 06:14:45</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-18_061445.mp3</link>
