@@ -37,14 +37,17 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           set -x
-          uv run python scripts/run_pipeline.py
-
+          uv run python scripts/run_pipeline.py --debug
+         
       - name: Save TTS diagnostic audio
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: tts-diagnostic-audio
-          path: docs/episodes/*_part*.wav
+         path: |
+           docs/episodes/*_part*.wav
+           docs/episodes/*.tts.txt
+           docs/episodes/*.tts_prompt.txt
           retention-days: 7
           if-no-files-found: warn
 
