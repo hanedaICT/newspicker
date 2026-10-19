@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 19 Oct 2026 06:16:37 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 07:51:03 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-20 07:47:20</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-20_074720.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-20_074720.mp3</guid>
+      <pubDate>Tue, 20 Oct 2026 07:51:03 +0900</pubDate>
+      <description>おはようございます。10月20日のワールド AI ニュースです。本日は、Anthropic（あんすろぴっく）が爆発的なコード生成量に対応するため Git（ぎっと）を独自システムへ刷新した話題や、中国のテック大手で起きている AI 人材の「給与逆転」現象、そして自撮り写真一枚でガンの生存率を予測する驚きの新技術を中心にお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-20_074720.mp3" type="audio/mpeg" length="10883757" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-20_074720.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>11:20</itunes:duration>
+      <itunes:summary>おはようございます。10月20日のワールド AI ニュースです。本日は、Anthropic（あんすろぴっく）が爆発的なコード生成量に対応するため Git（ぎっと）を独自システムへ刷新した話題や、中国のテック大手で起きている AI 人材の「給与逆転」現象、そして自撮り写真一枚でガンの生存率を予測する驚きの新技術を中心にお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-19 06:14:40</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-19_061440.mp3</link>
