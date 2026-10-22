@@ -14,7 +14,20 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 22 Oct 2026 07:06:39 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:06:35 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-23 07:03:45</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-23_070345.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-23_070345.mp3</guid>
+      <pubDate>Fri, 23 Oct 2026 07:06:35 +0900</pubDate>
+      <description>おはようございます。10月23日のワールド AI ニュースです。
+本日は、OpenAI（おーぷんえーあい）の最新モデルが発見した PHP（ぴーえいちぴー）の致命的な脆弱性が引き起こした「世界的なセキュリティの嵐」や、Google Cloud（ぐーぐる・くらうど）への OpenAI（おーぷんえーあい）モデル導入という歴史的提携、そして「記憶」を重視する AI（えーあい）ハードウェア Flowtica（ふろうてぃか）の独自戦略を中心にお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-23_070345.mp3" type="audio/mpeg" length="12984237" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-23_070345.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>13:31</itunes:duration>
+      <itunes:summary>おはようございます。10月23日のワールド AI ニュースです。
+本日は、OpenAI（おーぷんえーあい）の最新モデルが発見した PHP（ぴーえいちぴー）の致命的な脆弱性が引き起こした「世界的なセキュリティの嵐」や、Google Cloud（ぐーぐる・くらうど）への OpenAI（おーぷんえーあい）モデル導入という歴史的提携、そして「記憶」を重視する AI（えーあい）ハードウェア Flowtica（ふろうてぃか）の独自戦略を中心にお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-22 07:04:28</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-22_070428.mp3</link>
