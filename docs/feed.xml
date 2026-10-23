@@ -14,7 +14,20 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 23 Oct 2026 07:06:35 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:51:42 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-24 06:48:56</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-24_064856.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-24_064856.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 06:51:42 +0900</pubDate>
+      <description>おはようございます。10月24日のワールド AI ニュースです。
+本日は、中国 DeepSeek（でぃーぷしーく）が実施した 1000億（せんおく）元規模の巨額資金調達と、「Black October（ぶらっく・おくとうばー）」と呼ばれる PHP（ぴーえいちぴー）の脆弱性を巡るサイバーセキュリティの緊迫した状況、そして Tesla（てすら）による Optimus（おぷてぃます）ロボットの量産開始と SpaceX（すぺーすえっくす）との合併検討についてお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-24_064856.mp3" type="audio/mpeg" length="13370157" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-24_064856.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>13:55</itunes:duration>
+      <itunes:summary>おはようございます。10月24日のワールド AI ニュースです。
+本日は、中国 DeepSeek（でぃーぷしーく）が実施した 1000億（せんおく）元規模の巨額資金調達と、「Black October（ぶらっく・おくとうばー）」と呼ばれる PHP（ぴーえいちぴー）の脆弱性を巡るサイバーセキュリティの緊迫した状況、そして Tesla（てすら）による Optimus（おぷてぃます）ロボットの量産開始と SpaceX（すぺーすえっくす）との合併検討についてお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-23 07:03:45</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-23_070345.mp3</link>
