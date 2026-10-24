@@ -247,7 +247,18 @@ def generate_headline_and_body(articles: list[Article], meta_path: str = "config
     expected_closing = "また明日お会いしましょう"
     if expected_closing not in body:
         print(f"[editor] WARNING: The script seems to be truncated. Expected closing phrase '{expected_closing}' not found.")
-        
+
+      # 既知の不自然な表現を検出（警告のみ）
+    suspicious_phrases = [
+        "しょうさです",
+    ]
+
+    for phrase in suspicious_phrases:
+        if phrase in body:
+            print(
+                f"[editor] WARNING: 不自然な表現の疑いがあります: '{phrase}'",
+                flush=True,
+            )
     return headline, body
 
 
