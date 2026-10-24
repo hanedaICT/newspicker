@@ -103,11 +103,11 @@ def run() -> None:
     # @editor: 台本生成（ヘッドラインと本文を分離）
     print("\n--- @editor: 台本生成中 ---")
     headline, body = generate_headline_and_body(articles)
-   if not headline or not headline.strip():
+    if not headline or not headline.strip():
         print("[pipeline] ERROR: ヘッドラインが空欄です。処理を停止します。")
         sys.exit(1)
 
-    if not body or not body.strip():
+　　if not body or not body.strip():
         print("[pipeline] ERROR: 本文が空欄です。処理を停止します。")
         sys.exit(1)
 
