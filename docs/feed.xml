@@ -14,7 +14,20 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 24 Oct 2026 06:51:42 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:27:00 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-25 06:24:33</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-25_062433.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-25_062433.mp3</guid>
+      <pubDate>Sun, 25 Oct 2026 06:27:00 +0900</pubDate>
+      <description>おはようございます。10月25日のワールド AI ニュースです。
+本日は、OpenAI が「重大なリスク」を理由に開始したインターネットからの学習遮断や、政治的バイアスが鮮明になった Grok と ChatGPT の比較調査、そしてパナソニックグループで発生した 33万人（さんじゅうさんにん）超の個人情報を含む生成 AI への誤アップロード事件についてお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-25_062433.mp3" type="audio/mpeg" length="13541037" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-25_062433.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>14:06</itunes:duration>
+      <itunes:summary>おはようございます。10月25日のワールド AI ニュースです。
+本日は、OpenAI が「重大なリスク」を理由に開始したインターネットからの学習遮断や、政治的バイアスが鮮明になった Grok と ChatGPT の比較調査、そしてパナソニックグループで発生した 33万人（さんじゅうさんにん）超の個人情報を含む生成 AI への誤アップロード事件についてお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-24 06:48:56</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-24_064856.mp3</link>
