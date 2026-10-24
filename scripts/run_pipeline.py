@@ -107,7 +107,7 @@ def run() -> None:
         print("[pipeline] ERROR: ヘッドラインが空欄です。処理を停止します。")
         sys.exit(1)
 
-　　if not body or not body.strip():
+    if not body or not body.strip():
         print("[pipeline] ERROR: 本文が空欄です。処理を停止します。")
         sys.exit(1)
 
