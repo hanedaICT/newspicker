@@ -179,8 +179,12 @@ def _clean_text_for_tts(text: str) -> str:
         reading = match.group(2).strip()
         return reading
 
+    mixed_name_pattern = (
+      r"(?<![A-Za-z0-9\u30A0-\u30FF])[A-Za-z0-9]+[\u30A0-\u30FF]+"
+      r"[（(]([\u3040-\u30FF・]+)[）)]"
+    )
+    text = re.sub(mixed_name_pattern, r"\1", text)
     return _RUBY_PATTERN.sub(replace, text)
-
 
 def _tts_input_diagnostics(text: str) -> str:
     """API送信テキストを露出せずに比較できる診断情報を返す。"""
