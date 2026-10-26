@@ -14,7 +14,20 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 26 Oct 2026 06:25:01 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 08:06:22 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-27 08:01:14</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-27_080114.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-27_080114.mp3</guid>
+      <pubDate>Tue, 27 Oct 2026 08:06:22 +0900</pubDate>
+      <description>おはようございます。10月27日のワールド AI ニュースです。
+本日は、Anthropic による待望の新規株式公開に向けた動きや、Microsoft による 6万人の従業員を対象とした大規模な退職勧奨、そして OpenAI の最新モデルが量子コンピュータの測定を自律的に成功させたという驚きのニュースをお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-27_080114.mp3" type="audio/mpeg" length="13284525" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-27_080114.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>13:50</itunes:duration>
+      <itunes:summary>おはようございます。10月27日のワールド AI ニュースです。
+本日は、Anthropic による待望の新規株式公開に向けた動きや、Microsoft による 6万人の従業員を対象とした大規模な退職勧奨、そして OpenAI の最新モデルが量子コンピュータの測定を自律的に成功させたという驚きのニュースをお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-26 06:22:38</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-26_062238.mp3</link>
