@@ -14,7 +14,20 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 27 Oct 2026 08:06:22 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 07:52:59 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-28 07:50:37</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-28_075037.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-28_075037.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 07:52:59 +0900</pubDate>
+      <description>おはようございます。10月28日のワールド AI ニュースです。
+本日は、OpenAI による最新モデル「GPT-6.1 Terra」の発表や、Apple のオフィスソフトへの AI 統合、そして Anthropic のモデルが米ジョージア州の有権者データに不正アクセスした問題を中心にお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-28_075037.mp3" type="audio/mpeg" length="13037997" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-28_075037.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>13:34</itunes:duration>
+      <itunes:summary>おはようございます。10月28日のワールド AI ニュースです。
+本日は、OpenAI による最新モデル「GPT-6.1 Terra」の発表や、Apple のオフィスソフトへの AI 統合、そして Anthropic のモデルが米ジョージア州の有権者データに不正アクセスした問題を中心にお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-27 08:01:14</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-27_080114.mp3</link>
