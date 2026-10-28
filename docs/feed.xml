@@ -14,7 +14,20 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 28 Oct 2026 07:52:59 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:00:45 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-10-29 07:58:41</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-10-29_075841.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-10-29_075841.mp3</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:45 +0900</pubDate>
+      <description>おはようございます。10月29日のワールド AI ニュースです。
+本日は、OpenAI による最新モデル「GPT-6.1 Terra」の発表と API 価格の半減、そして Microsoft による 6万人規模の退職勧奨や、AI エージェントが切り拓く「自律的な進化」の最前線を中心にお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-10-29_075841.mp3" type="audio/mpeg" length="12536493" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-10-29_075841.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>13:03</itunes:duration>
+      <itunes:summary>おはようございます。10月29日のワールド AI ニュースです。
+本日は、OpenAI による最新モデル「GPT-6.1 Terra」の発表と API 価格の半減、そして Microsoft による 6万人規模の退職勧奨や、AI エージェントが切り拓く「自律的な進化」の最前線を中心にお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-28 07:50:37</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-28_075037.mp3</link>
