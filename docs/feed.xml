@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 31 Oct 2026 07:49:29 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 07:11:58 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-11-01 07:10:12</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-11-01_071012.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-11-01_071012.mp3</guid>
+      <pubDate>Sun, 01 Nov 2026 07:11:58 +0900</pubDate>
+      <description>おはようございます。11月1日のワールド AI ニュースです。本日は、アリババの人工知能「通義千問」がアップル製品に統合されるという中国市場での大きな動きや、企業向けソフトのゾーホーが打ち出す「回答から実行へ」という実務重視の戦略、そして自動運転からロボットへと広がる「物理エーアイ」の最前線についてお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-11-01_071012.mp3" type="audio/mpeg" length="11813805" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-11-01_071012.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>12:18</itunes:duration>
+      <itunes:summary>おはようございます。11月1日のワールド AI ニュースです。本日は、アリババの人工知能「通義千問」がアップル製品に統合されるという中国市場での大きな動きや、企業向けソフトのゾーホーが打ち出す「回答から実行へ」という実務重視の戦略、そして自動運転からロボットへと広がる「物理エーアイ」の最前線についてお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-10-31 07:46:57</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-10-31_074657.mp3</link>
