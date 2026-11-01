@@ -16,6 +16,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from agents.android import update_feed
 from agents.editor import generate_headline_and_body
+from scripts.quality_check import check_quality
 from agents.scout import collect, save_seen_urls
 from agents.voice import (
     _clean_text_for_tts,
@@ -103,6 +104,14 @@ def run() -> None:
     # @editor: 台本生成（ヘッドラインと本文を分離）
     print("\n--- @editor: 台本生成中 ---")
     headline, body = generate_headline_and_body(articles)
+    # 台本の重大品質チェック
+    quality_warnings = check_quality(headline, body)
+
+    if quality_warnings:
+        for warning in quality_warnings:
+            print(f"[QUALITY][CRITICAL] {warning}")
+    else:
+        print("[QUALITY] 重大警告なし")
     if not headline or not headline.strip():
         print("[pipeline] ERROR: ヘッドラインが空欄です。処理を停止します。")
         sys.exit(1)
