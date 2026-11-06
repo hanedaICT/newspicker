@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 06 Nov 2026 09:38:30 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 08:40:15 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-11-07 08:38:38</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-11-07_083838.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-11-07_083838.mp3</guid>
+      <pubDate>Sat, 07 Nov 2026 08:40:15 +0900</pubDate>
+      <description>おはようございます。11月7日のワールド AI ニュースです。本日は、オープンエーアイにおける異例のリーダー交代劇と深刻な内部セキュリティの課題、そしてサイバーセキュリティ特化型モデル、ジーピーティー・シックス・サイバーの発表など、技術の進歩と組織の安全性を巡る最新動向をお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-11-07_083838.mp3" type="audio/mpeg" length="9059373" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-11-07_083838.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>09:26</itunes:duration>
+      <itunes:summary>おはようございます。11月7日のワールド AI ニュースです。本日は、オープンエーアイにおける異例のリーダー交代劇と深刻な内部セキュリティの課題、そしてサイバーセキュリティ特化型モデル、ジーピーティー・シックス・サイバーの発表など、技術の進歩と組織の安全性を巡る最新動向をお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-11-06 09:35:55</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-11-06_093555.mp3</link>
