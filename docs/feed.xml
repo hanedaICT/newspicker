@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 04 Nov 2026 08:54:32 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 09:38:30 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-11-06 09:35:55</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-11-06_093555.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-11-06_093555.mp3</guid>
+      <pubDate>Fri, 06 Nov 2026 09:38:30 +0900</pubDate>
+      <description>おはようございます。11月6日のワールド AI ニュースです。本日は、画像生成の速度と表現力を大幅に向上させたオープンエーアイの最新アップデートや、フランスの権威ある文学賞でのエーアイ利用を巡る波紋、そしてアメリカ中間選挙の結果を受けたナスダック市場の歴史的な急落など、技術と社会、そして経済が複雑に交錯する最新ニュースをお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-11-06_093555.mp3" type="audio/mpeg" length="12007725" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-11-06_093555.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>12:30</itunes:duration>
+      <itunes:summary>おはようございます。11月6日のワールド AI ニュースです。本日は、画像生成の速度と表現力を大幅に向上させたオープンエーアイの最新アップデートや、フランスの権威ある文学賞でのエーアイ利用を巡る波紋、そしてアメリカ中間選挙の結果を受けたナスダック市場の歴史的な急落など、技術と社会、そして経済が複雑に交錯する最新ニュースをお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-11-04 08:52:17</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-11-04_085217.mp3</link>
