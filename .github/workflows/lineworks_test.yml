@@ -30,4 +30,4 @@ jobs:
           LINEWORKS_CLIENT_SECRET: ${{ secrets.LINEWORKS_CLIENT_SECRET }}
           LINEWORKS_RECIPIENT_ID: ${{ secrets.LINEWORKS_RECIPIENT_ID }}
         run: |
-          uv run python -c "from scripts.lineworks_notify import send_lineworks_message; import sys; sys.exit(0 if send_lineworks_message('【テスト】AIニュース通知の接続確認です。') else 1)"
+          uv run python -c "from scripts.quality_check import check_quality; from scripts.lineworks_notify import send_lineworks_message; import sys; warnings = check_quality('テスト', '短い本文'); print('重大警告:', warnings); sys.exit(0 if warnings and send_lineworks_message('【重大警告連動テスト】\n' + '\n'.join(warnings)) else 1)"
