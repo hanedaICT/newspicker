@@ -17,6 +17,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from agents.android import update_feed
 from agents.editor import generate_headline_and_body
 from scripts.quality_check import check_quality
+from scripts.lineworks_notify import send_lineworks_message
 from agents.scout import collect, save_seen_urls
 from agents.voice import (
     _clean_text_for_tts,
@@ -110,6 +111,12 @@ def run() -> None:
     if quality_warnings:
         for warning in quality_warnings:
             print(f"[QUALITY][CRITICAL] {warning}")
+        message = "【AIニュース重大警告】\n" + "\n".join(quality_warnings)
+        try:
+            if not send_lineworks_message(message):
+                print("[LINE WORKS] 通知に失敗しました")
+        except Exception as exc:
+            print(f"[LINE WORKS] 通知エラー: {type(exc).__name__}")
     else:
         print("[QUALITY] 重大警告なし")
     if not headline or not headline.strip():
