@@ -24,10 +24,11 @@ _RUBY_PATTERN = re.compile(
     r"(?<![A-Za-z0-9\u30a0-\u30ff\u3400-\u9fff\u00C0-\u024F])"
     r"([A-Za-z0-9\u00C0-\u024F.\-_+]+"
     r"(?:\s+[A-Za-z0-9\u00C0-\u024F.\-_+]+)*"
-    r"|[\u30a0-\u30ff々ヶー]*[\u3400-\u9fff][\u3040-\u30ff\u3400-\u9fff々ヶー.\-_]*"
+    r"|[\u3400-\u9fff][\u3400-\u9fff\u30a0-\u30ff々ヶー]*"
     r"|[\u30a0-\u30ff々ヶー]+)"
     r"[（(]([\u3040-\u309f\u30a0-\u30ffー・\s]+)[）)]"
 )
+
 
 # リトライ対象のHTTPステータスコード
 _RETRYABLE_STATUS_CODES = {408, 429, 500, 502, 503, 504}
