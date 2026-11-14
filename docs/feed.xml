@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 13 Nov 2026 09:01:29 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:10:22 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-11-14 09:08:40</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-11-14_090840.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-11-14_090840.mp3</guid>
+      <pubDate>Sat, 14 Nov 2026 09:10:22 +0900</pubDate>
+      <description>おはようございます。11月14日のワールド AI ニュースです。本日は、エヌビディアのジェンスン・フアン氏の辞任を巡る政治的混乱と最新の自動運転技術、オープンエーアイが発表したエーアイエージェント専用の決済機能、そして日本国内で加速するフィジカルエーアイの社会実装についてお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-11-14_090840.mp3" type="audio/mpeg" length="10368044" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-11-14_090840.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>10:47</itunes:duration>
+      <itunes:summary>おはようございます。11月14日のワールド AI ニュースです。本日は、エヌビディアのジェンスン・フアン氏の辞任を巡る政治的混乱と最新の自動運転技術、オープンエーアイが発表したエーアイエージェント専用の決済機能、そして日本国内で加速するフィジカルエーアイの社会実装についてお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-11-13 08:59:25</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-11-13_085925.mp3</link>
