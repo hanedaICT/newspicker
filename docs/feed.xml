@@ -14,7 +14,18 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 17 Nov 2026 11:20:33 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:32:29 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-11-18 10:30:36</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-11-18_103036.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-11-18_103036.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 10:32:29 +0900</pubDate>
+      <description>おはようございます。11月18日のワールド AI ニュースです。本日は、アンソロピックによる歴史的な規模の新規株式公開の進展、グーグルが報告したエーアイによる自律的な脆弱性悪用の初事例、そして中国のビッグテック内部で激化するエーアイエージェント開発を巡る資源争奪戦を中心にお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-11-18_103036.mp3" type="audio/mpeg" length="10244396" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-11-18_103036.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>10:40</itunes:duration>
+      <itunes:summary>おはようございます。11月18日のワールド AI ニュースです。本日は、アンソロピックによる歴史的な規模の新規株式公開の進展、グーグルが報告したエーアイによる自律的な脆弱性悪用の初事例、そして中国のビッグテック内部で激化するエーアイエージェント開発を巡る資源争奪戦を中心にお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-11-17 11:18:38</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-11-17_111838.mp3</link>
