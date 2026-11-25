@@ -14,7 +14,20 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 24 Nov 2026 13:36:16 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:01:11 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-11-25 11:58:49</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-11-25_115849.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-11-25_115849.mp3</guid>
+      <pubDate>Wed, 25 Nov 2026 12:01:11 +0900</pubDate>
+      <description>おはようございます。11月25日のワールド AI ニュースです。
+本日は、辞任からわずか11日でエヌビディアの最高経営責任者に復帰したジェンスン・フアン氏のニュースや、音楽配信サービス「タイダル」による2700万曲ものエーアイ生成楽曲の削除、そしてバイドゥによる2800億パラメーター規模の最新モデル「ウェンシン 5.5 フラッシュ・プレビュー」のオープンソース化など、業界を揺るがす重大な動きをお伝えします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-11-25_115849.mp3" type="audio/mpeg" length="12316076" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-11-25_115849.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>12:49</itunes:duration>
+      <itunes:summary>おはようございます。11月25日のワールド AI ニュースです。
+本日は、辞任からわずか11日でエヌビディアの最高経営責任者に復帰したジェンスン・フアン氏のニュースや、音楽配信サービス「タイダル」による2700万曲ものエーアイ生成楽曲の削除、そしてバイドゥによる2800億パラメーター規模の最新モデル「ウェンシン 5.5 フラッシュ・プレビュー」のオープンソース化など、業界を揺るがす重大な動きをお伝えします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-11-24 13:34:13</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-11-24_133413.mp3</link>
