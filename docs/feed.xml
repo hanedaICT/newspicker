@@ -14,7 +14,20 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 25 Nov 2026 12:01:11 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 11:05:09 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-11-26 11:02:43</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-11-26_110243.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-11-26_110243.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 11:05:09 +0900</pubDate>
+      <description>おはようございます。11月26日のワールド AI ニュースです。
+本日は、オープンエーアイがエーエムディーと提携し、エーアイ自らが半導体設計を最適化して性能を14パーセント向上させたという驚きのニュースをお伝えします。また、エヌビディアのジェンスン・フアン最高経営責任者が複数の不適切な関係を認め従業員に謝罪した問題や、テスラとスペースエックスの合併交渉の進展、ニューヨーク州での「エーアイ玩具」の5年間禁止措置など、業界の根幹に関わる重大な動きが続いています。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-11-26_110243.mp3" type="audio/mpeg" length="12655148" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-11-26_110243.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>13:10</itunes:duration>
+      <itunes:summary>おはようございます。11月26日のワールド AI ニュースです。
+本日は、オープンエーアイがエーエムディーと提携し、エーアイ自らが半導体設計を最適化して性能を14パーセント向上させたという驚きのニュースをお伝えします。また、エヌビディアのジェンスン・フアン最高経営責任者が複数の不適切な関係を認め従業員に謝罪した問題や、テスラとスペースエックスの合併交渉の進展、ニューヨーク州での「エーアイ玩具」の5年間禁止措置など、業界の根幹に関わる重大な動きが続いています。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-11-25 11:58:49</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-11-25_115849.mp3</link>
