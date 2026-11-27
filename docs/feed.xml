@@ -14,7 +14,20 @@
       <itunes:name>TasogarePenguin</itunes:name>
       <itunes:email>tasopenservices@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 26 Nov 2026 11:05:09 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:05:07 +0900</lastBuildDate>
+    <item>
+      <title>ワールド AI ニュース 2026-11-27 11:03:07</title>
+      <link>https://hanedaict.github.io/newspicker/episodes/2026-11-27_110307.mp3</link>
+      <guid isPermaLink="false">https://hanedaict.github.io/newspicker/episodes/2026-11-27_110307.mp3</guid>
+      <pubDate>Fri, 27 Nov 2026 11:05:07 +0900</pubDate>
+      <description>おはようございます。11月27日のワールド AI ニュースです。
+本日は、中国のセイスウ・テクノロジーがロボットの動作を劇的に進化させる最新モデル「モツブレイン 2.0」を発表し、その過酷な訓練プロセスを25日間にわたって公開生配信したという話題や、ミニマックスの最新エーアイが18年間未解決だった暗号をわずか数ミリ秒で破るという驚異的な成果、さらにイーロン・マスク氏による「宇宙データセンター」計画の進展など、エーアイが物理世界と科学の境界を塗り替える最新ニュースをお届けします。</description>
+      <enclosure url="https://hanedaict.github.io/newspicker/episodes/2026-11-27_110307.mp3" type="audio/mpeg" length="13466540" />
+      <podcast:transcript url="https://hanedaict.github.io/newspicker/episodes/2026-11-27_110307.srt" type="application/x-subrip" rel="captions" />
+      <itunes:duration>14:01</itunes:duration>
+      <itunes:summary>おはようございます。11月27日のワールド AI ニュースです。
+本日は、中国のセイスウ・テクノロジーがロボットの動作を劇的に進化させる最新モデル「モツブレイン 2.0」を発表し、その過酷な訓練プロセスを25日間にわたって公開生配信したという話題や、ミニマックスの最新エーアイが18年間未解決だった暗号をわずか数ミリ秒で破るという驚異的な成果、さらにイーロン・マスク氏による「宇宙データセンター」計画の進展など、エーアイが物理世界と科学の境界を塗り替える最新ニュースをお届けします。</itunes:summary>
+    </item>
     <item>
       <title>ワールド AI ニュース 2026-11-26 11:02:43</title>
       <link>https://hanedaict.github.io/newspicker/episodes/2026-11-26_110243.mp3</link>
